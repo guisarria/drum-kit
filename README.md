@@ -28,7 +28,7 @@ Bibliotecas
 
 ## 💻 Projeto
 
-Pequeno web app de bateria em Javascript, inspirado no desafio JavaScript30.
+Pequeno web app de bateria em JavaScript, inspirado no desafio "JavaScript30".
 
 ## 📝 Licença
 
