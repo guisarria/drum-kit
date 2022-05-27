@@ -32,6 +32,6 @@ Pequeno web app de bateria em Javascript, inspirado no desafio JavaScript30.
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/guisarria/drum-kit/blob/main/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/guisarria/drum-kit/tree/main/LICENSE.md) para mais detalhes.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
